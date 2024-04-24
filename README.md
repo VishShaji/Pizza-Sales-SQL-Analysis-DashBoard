@@ -1,3 +1,5 @@
+# SQL ANALYSIS
+
 The dataset contains 4 csv files:
 
 - orders.csv
@@ -45,6 +47,6 @@ Analyze the cumulative revenue generated over time.
 Task 12:
 Determine the top 3 most ordered pizza types based on revenue for each pizza category.
 
+# POWER BI DASHBOARD
 
-
-A Pizza Sales Dashboard created using Microsoft Power BI. 
+A Pizza Sales Dashboard was created using Microsoft Power BI.
