@@ -5,7 +5,7 @@ The dataset contains 4 csv files:
 - pizzas.csv
 - pizza_types.csv
   
-The dataset is acquired from MavenAnalytics.com.
+The dataset is acquired from MavenAnalytics.com. .[Link to the dataset](https://mavenanalytics.io/data-playground)
 
 Query Tasks:
 
