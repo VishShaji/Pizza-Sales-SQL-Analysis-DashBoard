@@ -1,3 +1,18 @@
+# Pizza Sales Analysis using MYSQL and PowerBI
+
+This projects deals with dataset of a year's worth of sales from a fictitious pizza place, including the date and time of each order and the pizzas served, with additional details on the type, size, quantity, price, and ingredients.
+
+The project is divided into 2 parts:
+- SQL Analysis
+- Dashboard Analysis
+
+SQL Analysis is done using MYSQL 8.3.
+Dashboard Analysis is done using Microsoft Power BI.
+
+# Data Source
+
+The dataset is acquired from MavenAnalytics.com. [Link to the website](https://mavenanalytics.io/data-playground)
+
 # SQL ANALYSIS
 
 The dataset contains 4 csv files:
@@ -7,8 +22,6 @@ The dataset contains 4 csv files:
 - pizzas.csv
 - pizza_types.csv
   
-The dataset is acquired from MavenAnalytics.com. [Link to the dataset](https://mavenanalytics.io/data-playground)
-
 ## Query Tasks:
 
 ### Task 1:
@@ -143,6 +156,18 @@ Query:
 ![alt text](https://github.com/VishShaji/SQL-Analysis-and-DashBoard-of-Pizza-Sales/blob/main/Assets/12q.png)
 
 Result:
+
+## License
+
+[MIT License](https://choosealicense.com/licenses/mit/)
+
+Copyright (c) 2024 Your Name
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
 
 ![alt text](https://github.com/VishShaji/SQL-Analysis-and-DashBoard-of-Pizza-Sales/blob/main/Assets/12a.png)
 
